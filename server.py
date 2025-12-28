@@ -17,3 +17,4 @@ server = HTTPServer(("0.0.0.0", 9000), Handler)
 print("[*] Servidor escuchando en 0.0.0.0:9000")
 
 server.serve_forever()
+if
